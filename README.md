@@ -1,6 +1,6 @@
 Hi there 👋
 
-My name is Isaac Newton, and I am a front-end developer.
+My name is Isaac Newton
 
 
 - 🌱 I’m currently learning TypeScript.
@@ -9,5 +9,7 @@ My name is Isaac Newton, and I am a front-end developer.
 - 💬 Ask me about my journey into frontend development, my experience with React, or my favorite TypeScript features.
 - ⚽ I love football (soccer) and can talk about it for hours!
 - 🎮 I'm also a gaming enthusiast who enjoys exploring virtual worlds in my free time.
-- 📫 How to reach me: Email: mwanikinewton742@gmail.com
--->
+- 📫 How to reach me: mwanikinewton742@gmail.com
+
+CONNECT WITH ME
+https://twitter.com/1ts_newton, https://www.linkedin.com/in/isaac-newton-mugo-aa3690211/ 
