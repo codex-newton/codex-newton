@@ -13,6 +13,6 @@ I'm Isaac Newton, venturing into the realms of Python and Django!
 
 ⚽ Football aficionado and gaming enthusiast - ready for a match or an adventure?
 
-📫 Reach me at mwanikinewton742@gmail.com - drop me a line!
+📫 Reach me at mwanikinewton742@gmail.com
 
 Excited to code and connect! 💻🐍
