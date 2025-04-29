@@ -1,18 +1,6 @@
-
-Hello! 👋
-
-I'm Isaac Newton, venturing into the realms of Python and Django!
-
-🌱 Currently honing my skills in Python and Django development.
-
-👯 Open to collaborating on Django projects - let's build something awesome together!
-
-🤔 Eager to master advanced Python concepts - any pro tips?
-
-💬 Let's chat about my backend journey, favorite Python tricks, or the magic of Django.
-
-⚽ Football aficionado and gaming enthusiast - ready for a match or an adventure?
-
-📫 Reach me at mwanikinewton742@gmail.com
-
-Excited to code and connect! 💻🐍
+👋 Hi, I'm Isaac Newton – a backend developer diving deep into Python, Django, and ERPNext.
+🧠 Currently exploring the world of AI & Machine Learning.
+⚙️ I build smart systems, automate workflows, and customize ERPNext for real-world use.
+🤝 Open to collaborations on backend, ERPNext, or AI projects.
+⚽ Football fan | 🎮 Gamer | 💡 Always learning
+📫 mwanikinewton742@gmail.com
